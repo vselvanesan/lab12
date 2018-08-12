@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "NodeJS Example Project",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP125-S2018-Lesson12.git"
-  },
+  "repository": "git+https://github.com/CentennialCollege/COMP125-S2018-Lesson12.git",
   "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
   "license": "MIT",
   "bugs": {
